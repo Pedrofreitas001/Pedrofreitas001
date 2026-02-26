@@ -37,6 +37,4 @@ Python • SQL • Power BI • Power Automate • Microsoft Fabric • TypeScri
 
 ---
 
-<p align="center">
-Transformando dados em decisões estratégicas.
-</p>
+
