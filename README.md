@@ -1,6 +1,6 @@
 <h1 align="center">Pedro Freitas</h1>
 <p align="center">
-Data Analyst • Data Engineering • Automation • AI
+Data Analyst • Automation • AI
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Analista de dados especializado em pipelines, automação e dashboards para proj
 
 ## Atuação
 
-- Engenharia e análise de dados  
+- Análise de dados  
 - Automação de processos  
 - Visualização executiva  
 - Inteligência artificial aplicada  
@@ -36,5 +36,6 @@ Automação de Processos e Dashboards
 Python • SQL • Power BI • Power Automate • Microsoft Fabric • TypeScript • LLMs
 
 ---
+
 
 
