@@ -4,7 +4,7 @@ Data Analyst • Automation • AI
 </p>
 
 <p align="center">
-Analista de dados especializado em pipelines, automação e dashboards para projetos de engenharia, meio ambiente e energia. Foco em transformar dados complexos em soluções escaláveis para tomada de decisão.
+Data analyst specialized in pipelines, automation, and dashboards for engineering, environmental, and energy projects. Focused on transforming complex data into scalable solutions for data-driven decision making.
 </p>
 
 <p align="center">
@@ -18,24 +18,21 @@ Analista de dados especializado em pipelines, automação e dashboards para proj
 
 ---
 
-## Atuação
+## Focus Areas
 
-- Análise de dados  
-- Automação de processos  
-- Visualização executiva  
-- Inteligência artificial aplicada  
+- Data analysis  
+- Process automation  
+- Executive data visualization  
+- Applied artificial intelligence  
 
-## Projetos em Destaque
+## Featured Projects
 
-Análise de Desmatamento da Amazônia  
-Análise Global de Emissões de CO₂  
-Automação de Processos e Dashboards  
+Amazon Deforestation Analysis  
+Global CO₂ Emissions Analysis  
+Process Automation and Dashboards  
 
-## Tecnologias
+## Technologies
 
 Python • SQL • Power BI • Power Automate • Microsoft Fabric • TypeScript • LLMs
 
 ---
-
-
-
